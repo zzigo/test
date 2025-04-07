@@ -1,0 +1,4 @@
+# Simple test score
+0vr1'1000;
+2vp1'1000;
+5vp1'1000^-1;
